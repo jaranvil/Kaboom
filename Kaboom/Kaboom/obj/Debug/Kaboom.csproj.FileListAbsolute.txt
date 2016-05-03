@@ -1,0 +1,9 @@
+C:\Users\Jared\Documents\Repos\w0269431\Kaboom\Kaboom\bin\Debug\Kaboom.exe.config
+C:\Users\Jared\Documents\Repos\w0269431\Kaboom\Kaboom\bin\Debug\Kaboom.exe
+C:\Users\Jared\Documents\Repos\w0269431\Kaboom\Kaboom\bin\Debug\Kaboom.pdb
+C:\Users\Jared\Documents\Repos\w0269431\Kaboom\Kaboom\obj\Debug\Kaboom.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Repos\w0269431\Kaboom\Kaboom\obj\Debug\Kaboom.Form1.resources
+C:\Users\Jared\Documents\Repos\w0269431\Kaboom\Kaboom\obj\Debug\Kaboom.Properties.Resources.resources
+C:\Users\Jared\Documents\Repos\w0269431\Kaboom\Kaboom\obj\Debug\Kaboom.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Repos\w0269431\Kaboom\Kaboom\obj\Debug\Kaboom.exe
+C:\Users\Jared\Documents\Repos\w0269431\Kaboom\Kaboom\obj\Debug\Kaboom.pdb
